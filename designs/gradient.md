@@ -46,12 +46,13 @@ Web プロダクトを開発しています。
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,nextjs,vue,flutter,redux,tailwind,nodejs,jest,vitest,docker,git,githubactions,postgres,mysql,firebase,figma&perline=11" alt="tech" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,kotlin,dart,php,react,nextjs,vue,flutter,redux,mui,jquery,tailwind,vite,babel,nodejs,jest,vitest,docker,cloudflare,gcp,firebase,postgres,mysql,wordpress,git,github,githubactions,jenkins,vscode,figma,notion&perline=12" alt="tech" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
 <img src="https://img.shields.io/badge/Jotai-6E57E0?style=flat-square&logoColor=white" alt="Jotai" />
+<img src="https://img.shields.io/badge/Kotest-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotest" />
 
 <br/><br/>
 
