@@ -52,9 +52,6 @@ Web プロダクトを開発しています。
 
 <img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
 <img src="https://img.shields.io/badge/Jotai-6E57E0?style=flat-square&logoColor=white" alt="Jotai" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 
 <br/><br/>
 
