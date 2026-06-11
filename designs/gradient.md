@@ -46,7 +46,15 @@ Web プロダクトを開発しています。
 
 ### 🧰 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,nextjs,vue,flutter,tailwind,nodejs,hono,docker,git,githubactions,postgres,mysql,firebase,figma&perline=10" alt="tech" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,react,nextjs,vue,flutter,redux,tailwind,nodejs,jest,vitest,docker,git,githubactions,postgres,mysql,firebase,figma&perline=11" alt="tech" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white" alt="Hono" />
+<img src="https://img.shields.io/badge/Jotai-6E57E0?style=flat-square&logoColor=white" alt="Jotai" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
 
 <br/><br/>
 
