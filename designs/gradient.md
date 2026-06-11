@@ -56,8 +56,19 @@ Web プロダクトを開発しています。
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutokun0705&layout=compact&include_all_commits=true&count_private=true&langs_count=8&hide_border=true&theme=tokyonight&title_color=6E57E0" alt="top langs" />
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=harutokun0705&hide_border=true&theme=tokyonight&stroke=6E57E0&ring=6E57E0&fire=8B7FF0" alt="streak" />
+
+<br/><br/>
+
+**📊 Most Used Languages** &nbsp;·&nbsp; public + private _(incl. pixi org)_
+
+<!-- LANG-STATS:START — 個人 + pixi-teams 全repoの /languages を集計した実比率（fork/ツール系は除外）-->
+```text
+TypeScript  ████████████████████░░░░░░░░  70.2 %
+Go          ███████░░░░░░░░░░░░░░░░░░░░░░  24.4 %
+Others      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.4 %
+```
+<!-- LANG-STATS:END -->
 
 <br/><br/>
 
