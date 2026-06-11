@@ -1,74 +1,89 @@
-<h1 align="center">Hi there <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
-<p align="center">
-  <b>Welcome to my page!</b><br>
-  <br>
-  <i>
-    I'm Seiya Terada.<br>
-    A web developer based in Japan, building products with TypeScript &amp; Go.<br>
-    Always learning something new, little by little.
-  </i><br/><br/>
-  <i>
-    寺田 誠也です。<br/>
-    日本でWeb開発をしています。TypeScript / Go を中心にプロダクト開発中。<br/>
-    少しずつ、いろいろな技術を学びながら作っています。
-  </i>
-</p>
-
-<!--
-  ↓ ポートフォリオや SNS があればコメントを外して URL を入れてください
-  <p align="center">
-    <b>Visit my <a href="https://example.com">portfolio</a> too!</b>
-  </p>
--->
-
-### Languages
-
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=typescript)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=javascript)
-[![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=go)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=python)
-[![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=dart)
-[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=php)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=html)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/harutokun0705?tab=repositories&q=&type=&language=css)
-
-### Framework
-
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/harutokun0705)
-[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=nextdotjs)](https://github.com/harutokun0705)
-[![Vue.js](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vuedotjs)](https://github.com/harutokun0705)
-[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/harutokun0705)
-[![Hono](https://img.shields.io/badge/hono-black?style=for-the-badge&logo=hono)](https://github.com/harutokun0705)
-[![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-black?style=for-the-badge&logo=tailwindcss)](https://github.com/harutokun0705)
-
-### Tools / Infra
-
-[![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/harutokun0705)
-[![GitHub Actions](https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=githubactions)](https://github.com/harutokun0705)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/harutokun0705)
-[![OpenAPI](https://img.shields.io/badge/openapi-black?style=for-the-badge&logo=openapiinitiative)](https://github.com/harutokun0705)
-[![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger)](https://github.com/harutokun0705)
-[![PostgreSQL](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://github.com/harutokun0705)
-[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/harutokun0705)
-[![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/harutokun0705)
-[![Figma](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma)](https://github.com/harutokun0705)
-
-<h1 align="center">My Details</h1>
+<!-- ╔═══════════════════════════════════════════════════════════╗
+     ║   SEIYA_TERADA // profile  —  cyberpunk / neon edition     ║
+     ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harutokun0705&theme=dracula&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0d0221,50:7000ff,100:00f0ff&text=SEIYA%20TERADA&fontColor=ffffff&fontSize=64&fontAlignY=40&animation=twinkling&desc=%3E_%20web%20developer%20//%20Japan&descSize=18&descAlignY=62" alt="header" />
 
-<!-- include_all_commits=true で private リポジトリのコミットも合算（要：自分のトークンでホストした github-readme-stats）-->
-![](https://github-readme-stats.vercel.app/api?username=harutokun0705&show_icons=true&include_all_commits=true&count_private=true&theme=react)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harutokun0705&layout=compact&include_all_commits=true&count_private=true&theme=react)
+<a href="https://github.com/harutokun0705">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00F0FF&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;Seiya+Terada+%2F%2F+Web+Developer;stack+%3D+%5B'TypeScript'%2C+'Go'%2C+'Next.js'%5D;while(alive)+%7B+keep_learning()%3B+%7D" alt="typing" />
+</a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harutokun0705&theme=prussian)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harutokun0705&theme=prussian&utcOffset=9)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=harutokun0705&color=FF00FF&style=for-the-badge&label=VISITORS" alt="visitors" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/harutokun0705?style=for-the-badge&color=00F0FF&labelColor=0d0221&logo=github" alt="followers" />
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harutokun0705&color=blue&style=flat" alt="profile views" />
-</p>
+<br/>
+
+```typescript
+const seiya = {
+  name:      "寺田 誠也 (Seiya Terada)",
+  role:      "Web Developer",
+  location:  "Japan 🇯🇵",
+  focus:     ["TypeScript", "Go", "Next.js", "API design"],
+  learning:  "少しずつ、いろんな技術を",
+  motto:     "while (alive) { keep_learning(); }",
+};
+```
+
+<div align="center">
+
+<!-- ░▒▓ TECH STACK ▓▒░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=99999&color=FF00FF&center=true&vCenter=true&width=400&height=40&lines=%E2%96%91%E2%96%92%E2%96%93+TECH+STACK+%E2%96%93%E2%96%92%E2%96%91" alt="tech stack" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,python,dart,php,html,css&theme=dark&perline=8" alt="languages" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,nodejs,hono&theme=dark&perline=7" alt="frameworks" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postgres,mysql,firebase,figma&theme=dark&perline=8" alt="tools" />
+
+<br/><br/>
+
+<!-- ░▒▓ STATS ▓▒░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=99999&color=00F0FF&center=true&vCenter=true&width=400&height=40&lines=%E2%96%91%E2%96%92%E2%96%93+STATS+%E2%96%93%E2%96%92%E2%96%91" alt="stats" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harutokun0705&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0221&title_color=00F0FF&icon_color=FF00FF&text_color=ffffff&theme=radical" alt="stats card" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=harutokun0705&hide_border=true&background=0d0221&stroke=7000ff&ring=00F0FF&fire=FF00FF&currStreakLabel=00F0FF&sideLabels=ffffff&dates=8b8b8b&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutokun0705&layout=compact&include_all_commits=true&count_private=true&langs_count=8&hide_border=true&bg_color=0d0221&title_color=00F0FF&text_color=ffffff&theme=radical" alt="top langs" />
+
+<br/><br/>
+
+<!-- ░▒▓ SNAKE ▓▒░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=99999&color=FF00FF&center=true&vCenter=true&width=400&height=40&lines=%E2%96%91%E2%96%92%E2%96%93+CONTRIBUTION+SNAKE+%E2%96%93%E2%96%92%E2%96%91" alt="snake" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutokun0705/harutokun0705/output/snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/harutokun0705/harutokun0705/output/snake.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- ░▒▓ TROPHY ▓▒░ -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=harutokun0705&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f0ff,50:7000ff,100:0d0221&reversal=true" alt="footer" />
+
+</div>
+
+<!--
+  ↓ SNS / ポートフォリオ ができたらここに追加できます
+  - X(Twitter) / Zenn / portfolio など
+  ↓ stats の数値に private(pixi等) を反映するには
+  github-readme-stats を自分の Vercel にデプロイ + PAT 設定が必要です
+-->
